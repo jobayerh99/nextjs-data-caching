@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 59.99,
+      "rating": 4.5,
+      "stock": 25,
+      "image": "https://example.com/headphones.jpg",
+      "description": "Enjoy clear and powerful sound with these comfortable wireless headphones. They feature long battery life, noise reduction, and a lightweight design that is perfect for music, movies, and online meetings."
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "price": 89.99,
+      "rating": 4.3,
+      "stock": 18,
+      "image": "https://example.com/smartwatch.jpg",
+      "description": "A stylish smart watch designed to help you stay connected and active. It includes fitness tracking, heart rate monitoring, sleep tracking, call notifications, and a long-lasting battery."
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "category": "Fashion",
+      "price": 74.99,
+      "rating": 4.7,
+      "stock": 32,
+      "image": "https://example.com/running-shoes.jpg",
+      "description": "Lightweight running shoes made with breathable materials and a comfortable sole. They provide excellent support and are suitable for running, walking, gym workouts, and everyday use."
+    },
+    {
+      "id": 4,
+      "name": "Laptop Backpack",
+      "category": "Accessories",
+      "price": 39.99,
+      "rating": 4.6,
+      "stock": 40,
+      "image": "https://example.com/backpack.jpg",
+      "description": "A durable and spacious laptop backpack with multiple compartments for your laptop, books, charger, and other accessories. Its water-resistant material makes it suitable for daily travel."
+    },
+    {
+      "id": 5,
+      "name": "Mechanical Keyboard",
+      "category": "Computer Accessories",
+      "price": 69.99,
+      "rating": 4.8,
+      "stock": 15,
+      "image": "https://example.com/keyboard.jpg",
+      "description": "A responsive mechanical keyboard designed for programmers and gamers. It features RGB lighting, durable mechanical switches, comfortable keycaps, and a strong build quality."
+    },
+    {
+      "id": 6,
+      "name": "Gaming Mouse",
+      "category": "Computer Accessories",
+      "price": 34.99,
+      "rating": 4.4,
+      "stock": 28,
+      "image": "https://example.com/gaming-mouse.jpg",
+      "description": "A high-precision gaming mouse with customizable buttons and RGB lighting. Its ergonomic design provides comfortable control during long gaming and working sessions."
+    }
+  ]
+}
